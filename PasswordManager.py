@@ -1,6 +1,5 @@
 # Software Name: Password Manager
 # Author: Luca Bocaletto
-# Website: https://www.elektronoide.it
 
 import sys
 import sqlite3
