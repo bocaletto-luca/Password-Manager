@@ -42,3 +42,11 @@ Before using Password Manager, make sure you have the following dependencies ins
 ### Clone the Repository
 
 You can clone this repository to your local machine using Git. Run the following command in your terminal.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
